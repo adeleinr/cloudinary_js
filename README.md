@@ -1,3 +1,6 @@
+I am NOT the author of this project, this is a fork of a specific version 1.0.11.
+
+
 Cloudinary
 ==========
 
